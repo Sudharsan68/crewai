@@ -1,2 +1,3 @@
-from crewai_tools import ScrapeWebsiteTool
-scraper = ScrapeWebsiteTool()
+from crewai_tools import SerperDevTool
+
+search_tool = SerperDevTool()

@@ -12,5 +12,5 @@ crew = Crew(
     verbose=True
 )
 
-result = crew.kickoff(inputs={"question": "give me 2 line of code to print hello world in python"})
+result = crew.kickoff()
 print(result)
